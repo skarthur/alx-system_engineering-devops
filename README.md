@@ -1,4 +1,6 @@
 # System Engineering Devops
 <ul>
-**Shell Basics**
+
+   <li>__Shell Basics__</li>
+
 </ul>
